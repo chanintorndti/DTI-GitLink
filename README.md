@@ -10,7 +10,7 @@
 ### kritsada saengkaeosuk (https://github.com/s6352410002)
 ### Natthawat Makraks (https://github.com/s6352410017)
 ### Ballang Mariem (https://github.com/s6352410016)
-### ณิชากร ว่องวิทยโยธิน (https://github.com/s6352710002)
+### Nichakorn (https://github.com/s6352710002)
 ### Kasama Panchaloen (https://github.com/kasamaaaq1)
 ### Apinan Loasssachan (https://github.com/s6352410003/)
 ### Chanitta Ammin (https://github.com/s6352410009)
