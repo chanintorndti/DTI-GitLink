@@ -1,7 +1,6 @@
 ## DTI Git link
-## รุ่น 1 
 
-++++++++++++++++++++++++++++++++++++++++
+## รุ่น 1 
 
 ### Chanintorn Chalermsuk (https://github.com/chanintorndti)
 ### Suphakij Chupsungnoen (https://github.com/s6352410007)
@@ -17,4 +16,4 @@
 ### Chanitta Ammin (https://github.com/s6352410009)
 ### Suphakij Chupsungnoen (https://github.com/s6352410007)
 
-++++++++++++++++++++++++++++++++++++++++
+
