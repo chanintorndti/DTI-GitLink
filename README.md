@@ -15,5 +15,7 @@
 ### Apinan Loasssachan (https://github.com/s6352410003/)
 ### Chanitta Ammin (https://github.com/s6352410009)
 ### Suphakij Chupsungnoen (https://github.com/s6352410007)
+### Nuttida (https://github.com/DocumenttSan)
+### Obnithi Wetyasutee (https://github.com/s6352410011)
 
 
